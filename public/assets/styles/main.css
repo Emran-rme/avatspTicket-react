@@ -1,0 +1,21 @@
+@import url("fontiran.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* input:focus,
+select:focus,
+button {
+    outline: none;
+    border: none;
+} */
+
+body {
+    font-family: "IRANSans", Arial, Helvetica, sans-serif;
+    direction: rtl;
+    position: relative;
+    overflow: hidden;
+}
